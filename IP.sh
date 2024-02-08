@@ -15,7 +15,7 @@ printf "\e[0m\n"
 printf "\e[0m\e[1;33m    Created ElHombreVerde.4chan \e[0m\e[1;31m(\e[0m\e[1;33m IP-Track \e[0m\e[1;31m)\e[0m\n"
 printf " \e[0m\e[1;32m"
 echo "==================================================="
-echo "     Autor:   El hombreVerde.4chan     "
+echo "     Autor:   Nana     "
 echo "=================================================="
 
 }
