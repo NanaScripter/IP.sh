@@ -13,3 +13,4 @@ bash IP.sh
 
 
 Ignoren esta linea es para actualizar commit y seguir mi racha cuando me acuerdo xd
+sale rachita nuevamente xd
